@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="txtstmt">Please select the following projects.</string>
+    <string name="btnAction">Dresser</string>
+    <string name="btnAction1">Bicycle</string>
+    <string name="btnAction2">Patio</string>
+    <string name="txtstmt1">Following tools will be needed.</string>
+    <string name="btnNev">Back</string>
+    <string name="btnNav">Next</string>
+    <string name="btnHome">Home</string>
+    <string name="txtstmt2">No assembly Required!</string>
+    <string name="Image">Hammer</string>
+    <string name="Image1">Saw</string>
+    <string name="Image2">Screw_Driver</string>
+</resources>
